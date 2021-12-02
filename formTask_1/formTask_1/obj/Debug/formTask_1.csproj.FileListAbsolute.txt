@@ -1,0 +1,11 @@
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\formTask_1\formTask_1\bin\Debug\formTask_1.exe.config
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\formTask_1\formTask_1\bin\Debug\formTask_1.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\formTask_1\formTask_1\bin\Debug\formTask_1.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\formTask_1\formTask_1\obj\Debug\formTask_1.csprojAssemblyReference.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\formTask_1\formTask_1\obj\Debug\formTask_1.Form1.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\formTask_1\formTask_1\obj\Debug\formTask_1.Properties.Resources.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\formTask_1\formTask_1\obj\Debug\formTask_1.csproj.GenerateResource.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\formTask_1\formTask_1\obj\Debug\formTask_1.csproj.CoreCompileInputs.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\formTask_1\formTask_1\obj\Debug\formTask_1.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\formTask_1\formTask_1\obj\Debug\formTask_1.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\formTask_1\formTask_1\obj\Debug\formTask_1.fT2.resources

@@ -1,0 +1,11 @@
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\wfTask_3\wfTask_3\bin\Debug\wfTask_3.exe.config
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\wfTask_3\wfTask_3\bin\Debug\wfTask_3.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\wfTask_3\wfTask_3\bin\Debug\wfTask_3.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\wfTask_3\wfTask_3\obj\Debug\wfTask_3.csprojAssemblyReference.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\wfTask_3\wfTask_3\obj\Debug\wfTask_3.Form1.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\wfTask_3\wfTask_3\obj\Debug\wfTask_3.fZad2.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\wfTask_3\wfTask_3\obj\Debug\wfTask_3.Properties.Resources.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\wfTask_3\wfTask_3\obj\Debug\wfTask_3.csproj.GenerateResource.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\wfTask_3\wfTask_3\obj\Debug\wfTask_3.csproj.CoreCompileInputs.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\wfTask_3\wfTask_3\obj\Debug\wfTask_3.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\wfTask_3\wfTask_3\obj\Debug\wfTask_3.pdb

@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\pw11\pw11\bin\Debug\pw11.exe.config
+C:\Users\Acer\source\repos\pw11\pw11\bin\Debug\pw11.exe
+C:\Users\Acer\source\repos\pw11\pw11\bin\Debug\pw11.pdb
+C:\Users\Acer\source\repos\pw11\pw11\obj\Debug\pw11.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\pw11\pw11\obj\Debug\pw11.Form1.resources
+C:\Users\Acer\source\repos\pw11\pw11\obj\Debug\pw11.Properties.Resources.resources
+C:\Users\Acer\source\repos\pw11\pw11\obj\Debug\pw11.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\pw11\pw11\obj\Debug\pw11.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\pw11\pw11\obj\Debug\pw11.exe
+C:\Users\Acer\source\repos\pw11\pw11\obj\Debug\pw11.pdb

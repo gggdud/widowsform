@@ -1,0 +1,11 @@
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZ_4\guiZ_4\bin\Debug\guiZ_4.exe.config
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZ_4\guiZ_4\bin\Debug\guiZ_4.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZ_4\guiZ_4\bin\Debug\guiZ_4.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZ_4\guiZ_4\obj\Debug\guiZ_4.csprojAssemblyReference.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZ_4\guiZ_4\obj\Debug\guiZ_4.Form1.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZ_4\guiZ_4\obj\Debug\guiZ_4.Properties.Resources.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZ_4\guiZ_4\obj\Debug\guiZ_4.csproj.GenerateResource.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZ_4\guiZ_4\obj\Debug\guiZ_4.csproj.CoreCompileInputs.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZ_4\guiZ_4\obj\Debug\guiZ_4.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZ_4\guiZ_4\obj\Debug\guiZ_4.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZ_4\guiZ_4\obj\Debug\guiZ_4.Form2.resources

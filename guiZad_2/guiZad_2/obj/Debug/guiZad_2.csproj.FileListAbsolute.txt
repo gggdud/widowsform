@@ -1,0 +1,14 @@
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_2\guiZad_2\bin\Debug\guiZad_2.exe.config
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_2\guiZad_2\bin\Debug\guiZad_2.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_2\guiZad_2\bin\Debug\guiZad_2.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_2\guiZad_2\obj\Debug\guiZad_2.csprojAssemblyReference.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_2\guiZad_2\obj\Debug\guiZad_2.Form1.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_2\guiZad_2\obj\Debug\guiZad_2.Properties.Resources.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_2\guiZad_2\obj\Debug\guiZad_2.z1.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_2\guiZad_2\obj\Debug\guiZad_2.csproj.GenerateResource.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_2\guiZad_2\obj\Debug\guiZad_2.csproj.CoreCompileInputs.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_2\guiZad_2\obj\Debug\guiZad_2.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_2\guiZad_2\obj\Debug\guiZad_2.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_2\guiZad_2\obj\Debug\guiZad_2.z2.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_2\guiZad_2\obj\Debug\guiZad_2.z3.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_2\guiZad_2\obj\Debug\guiZad_2.z4.resources

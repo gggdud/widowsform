@@ -1,0 +1,14 @@
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_6\guiZad_6\bin\Debug\guiZad_6.exe.config
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_6\guiZad_6\bin\Debug\guiZad_6.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_6\guiZad_6\bin\Debug\guiZad_6.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_6\guiZad_6\obj\Debug\guiZad_6.csprojAssemblyReference.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_6\guiZad_6\obj\Debug\guiZad_6.Form1.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_6\guiZad_6\obj\Debug\guiZad_6.Properties.Resources.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_6\guiZad_6\obj\Debug\guiZad_6.z1.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_6\guiZad_6\obj\Debug\guiZad_6.csproj.GenerateResource.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_6\guiZad_6\obj\Debug\guiZad_6.csproj.CoreCompileInputs.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_6\guiZad_6\obj\Debug\guiZad_6.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_6\guiZad_6\obj\Debug\guiZad_6.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_6\guiZad_6\obj\Debug\guiZad_6.z2.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_6\guiZad_6\obj\Debug\guiZad_6.z3.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\ArtD\guiZad_6\guiZad_6\obj\Debug\guiZad_6.z4.resources
